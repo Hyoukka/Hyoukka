@@ -1,4 +1,4 @@
-### Olá! Meu nome e Cassius Vinicius e seja bem-vindo ao meu perfil
+### Olá! Meu nome é Cassius Vinicius e seja bem-vindo ao meu perfil
 
 - 🔭 Atualmente procurando estágio como desenvolvedor web
 - 🌱 Estudando React
