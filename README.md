@@ -15,7 +15,8 @@
   <img align="center" alt="Cass-Js" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Cass-HTML" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cass-CSS" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Cass-Python" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="Cass-Python" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cass-Java" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
   <img align="right" alt="Cass-pic" height="150" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/913262514664513636/954865433683566652/coding-anime.gif?width=676&height=676">
 </div>
 
