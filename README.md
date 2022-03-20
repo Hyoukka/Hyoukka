@@ -1,15 +1,24 @@
-### Olá! Meu nome é Cassius Vinicius e seja bem-vindo ao meu perfil
+### <p align ='center'>Olá :wave: Meu nome é Cassius Vinicius e seja bem-vindo ao meu perfil!</p>
+
+<p align='center'> <img src='https://cdn.discordapp.com/attachments/913262514664513636/955086423403409488/tumblr_p3fp73mneH1qcgdfgo7_500.gif' /> </p>
 
 - 🔭 Atualmente procurando estágio como desenvolvedor web
 - 🌱 Estudando React
 - 📫 Contato: cassius10ead@gmail.com
 - ⚡ Fun fact: Eu gosto de assistir animes/ler mangás e jogar videogames
--->
+
 <div align="center">
   <a href="https://github.com/hyoukka">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=hyoukka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
+  <details>
+  <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
+
+![Metrics](https://metrics.lecoq.io/Hyoukka)
+
+</details>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Cass-Js" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +26,7 @@
   <img align="center" alt="Cass-CSS" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cass-Python" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Cass-Java" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg">
-  <img align="right" alt="Cass-pic" height="150" style="border-radius:50px;" src=https://cdn.discordapp.com/attachments/913262514664513636/954865433683566652/coding-anime.gif?width=676&height=676">
+  
 </div>
 
 ##
