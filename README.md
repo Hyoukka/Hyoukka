@@ -1,11 +1,11 @@
-### <p align ='center'>Olá :wave: Meu nome é Cassius Vinicius e seja bem-vindo ao meu perfil!</p>
+### <p align ='center'>Hi there :wave: My name is Cassius Vinicius and welcome to my profile!</p>
 
 <p align='center'> <img src='https://cdn.discordapp.com/attachments/913262514664513636/955086423403409488/tumblr_p3fp73mneH1qcgdfgo7_500.gif' /> </p>
 
-- 🔭 Atualmente procurando estágio como desenvolvedor web
-- 🌱 Estudando React
-- 📫 Contato: cassius10ead@gmail.com
-- ⚡ Fun fact: Eu gosto de assistir animes/ler mangás e jogar videogames
+- 🔭  Currently looking for internship as a web developer
+- 🌱 Currently studying React
+- 📫 Contact: cassius10ead@gmail.com
+- ⚡ Fun fact: I like to watch animes/read mangas and i love playing video games
 
 <div align="center">
   <a href="https://github.com/hyoukka">
