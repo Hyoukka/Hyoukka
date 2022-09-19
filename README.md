@@ -3,7 +3,7 @@
 <p align='center'> <img src='https://cdn.discordapp.com/attachments/913262514664513636/955086423403409488/tumblr_p3fp73mneH1qcgdfgo7_500.gif' /> </p>
 
 - 🔭  Currently looking for internship as a web developer
-- 🌱 Currently studying React
+- 🌱 Currently studying PHP and MySQL
 - 📫 Contact: cassius10ead@gmail.com
 - ⚡ Fun fact: I like to watch animes/read mangas and i love playing video games
 
