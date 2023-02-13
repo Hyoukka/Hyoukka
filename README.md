@@ -8,10 +8,11 @@
 
 <div align="center">
   <a href="https://github.com/hyoukka">
-  <img height="180em" width="48%" src="https://github-readme-stats-ecru-iota-41.vercel.app/api?username=hyoukka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats-ecru-iota-41.vercel.app/api/top-langs/?username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-ruby-one.vercel.app/api?username=hyoukka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?  username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
+ 
   <details>
   <summary>🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</summary>
 
