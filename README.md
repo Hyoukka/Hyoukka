@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/hyoukka">
-  <img height="180em" width="48%" src="https:readme-stats-indol.vercel.app/api/top-langs/?username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple/api?username=hyoukka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://readme-stats-indol.vercel.app/api/top-langs/?username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple/api?username=hyoukka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://readme-stats-indol.vercel.app/api/top-langs/?username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple/api/top-langs/?username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
