@@ -6,7 +6,7 @@
 - 📫 Contact: cassius10ead@gmail.com
 - ⚡ Fun fact: I like to watch animes/read mangas and i love playing video games
 
-<p align='center'><img src='https://github-readme-streak-stats.herokuapp.com/?user=hyoukkal&theme=midnight-purple' /> </p>
+<p align='center'><img src='https://github-readme-streak-stats.herokuapp.com/?user=hyoukka&theme=midnight-purple' /> </p>
 
 <div align="center">
   <a href="https://github.com/hyoukka">
