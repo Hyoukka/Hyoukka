@@ -27,6 +27,7 @@
   <img align="center" alt="Cass-HTML" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cass-CSS" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Cass-Python" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cass-Docker" height="30" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   
 </div>
 
