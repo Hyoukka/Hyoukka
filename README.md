@@ -1,7 +1,7 @@
 ### <p align ='center'>Hi there :wave: My name is Cassius Vinicius and welcome to my profile!</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/913262514664513636/1228048922199588934/tumblr_9c5c32a5bb3f8153de0c0000212649c9_cf333092_540.webp?ex=66581c6f&is=6656caef&hm=29cf0bf9f16097a8568d5bd4ac83e2e464083d1b3782068c6a8fd27e1206ec52&" alt="profile-hi-img">
+  <img src="https://cdn.discordapp.com/attachments/913262514664513636/1228048922199588934/tumblr_9c5c32a5bb3f8153de0c0000212649c9_cf333092_540.webp?ex=6667ee6f&is=66669cef&hm=73ae630d271635070cfae0b0448f7494905a2a8480f60d7202003bc699ce5965&" alt="profile-hi-img">
 </p> 
 
 - 🌱 Currently studying AWS
