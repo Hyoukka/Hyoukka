@@ -4,7 +4,7 @@
   <img src="https://cdn.discordapp.com/attachments/913262514664513636/1228048922199588934/tumblr_9c5c32a5bb3f8153de0c0000212649c9_cf333092_540.webp?ex=66921e6f&is=6690ccef&hm=ba7b8a977a1eca368759d4605054e6e9ef5c29c6c6d98efacd361e9b22560063&" alt="profile-hi-img">
 </p> 
 
-- 🌱 Currently studying AWS
+- 🌱 Currently studying DS/Algorithms
 - 📫 Contact: cassius10ead@gmail.com
 - ⚡ Fun fact: I like to watch animes/read mangas and i love playing video games
 
