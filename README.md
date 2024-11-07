@@ -1,7 +1,7 @@
 ### <p align ='center'>Hi there :wave: My name is Cassius Vinicius and welcome to my profile!</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/913262514664513636/1228048922199588934/tumblr_9c5c32a5bb3f8153de0c0000212649c9_cf333092_540.webp?ex=6701852f&is=670033af&hm=12ea05c585512de9a9c19b5317df837a1630ad3f989e1c55ea94dcf6e1c69aeb&" alt="profile-hi-img">
+  <img src="https://i.ibb.co/ZN0KyCR/github.webp" alt="profile-hi-img">
 </p> 
 
 - 🌱 Currently studying React
