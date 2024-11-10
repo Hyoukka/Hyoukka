@@ -1,20 +1,30 @@
-### <p align ='center'>Hi there :wave: My name is Cassius Vinicius and welcome to my profile!</p>
+<p align ='center'>Hi there :wave: My name is Cassius Vinicius and welcome to my profile!</p>
+
+###
 
 <p align="center">
   <img src="https://i.ibb.co/ZN0KyCR/github.webp" alt="profile-hi-img">
 </p> 
 
+###
+
 - 🌱 Currently studying React
 - 📫 Contact: cassius10ead@gmail.com
 - ⚡ Fun fact: I like to watch animes/read mangas and i love playing video games
 
+###
+
 <p align='center'><img src='https://github-readme-streak-stats.herokuapp.com/?user=hyoukka&theme=midnight-purple' /> </p>
+
+###
 
 <div align="center">
   <a href="https://github.com/hyoukka">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=hyoukka&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyoukka&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+
+###
   
 <div>
   <div>
@@ -47,8 +57,10 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
+###
+
 <div align="left"> 
-  <h3>🔔 - Social Media:</h3>
+  <h3>🌐 Connect with Me:</h3>
   <div>
     <a href = "mailto:cassius10ead@gmail.com">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
@@ -59,6 +71,15 @@
   </div>
 </div>
 
+###
+
 <div> 
   <img src="https://raw.githubusercontent.com/hyoukka/hyoukka/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=hyoukka&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
