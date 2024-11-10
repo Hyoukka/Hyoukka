@@ -1,4 +1,4 @@
-<p align ='center'>Hi there :wave: My name is Cassius Vinicius and welcome to my profile!</p>
+<h3 align ='center'>Hi there :wave: My name is Cassius Vinicius and welcome to my profile!</h3>
 
 ###
 
